@@ -1,0 +1,25 @@
+[2.058s] Invoking command in '/home/mayooran/Documents/ros_topics/src/imu': CONDA_PROMPT_MODIFIER=(hl2ss) PYTHONPATH=/home/mayooran/Documents/ros_topics/src/build/imu/prefix_override:/home/mayooran/Documents/ros_topics/src/install/imu/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/imu build --build-base /home/mayooran/Documents/ros_topics/src/build/imu/build install --record /home/mayooran/Documents/ros_topics/src/build/imu/install.log --install-scripts $base/lib/imu --single-version-externally-managed install_data
+[2.885s] running egg_info
+[2.889s] writing ../build/imu/imu.egg-info/PKG-INFO
+[2.889s] writing dependency_links to ../build/imu/imu.egg-info/dependency_links.txt
+[2.889s] writing entry points to ../build/imu/imu.egg-info/entry_points.txt
+[2.889s] writing requirements to ../build/imu/imu.egg-info/requires.txt
+[2.889s] writing top-level names to ../build/imu/imu.egg-info/top_level.txt
+[2.935s] reading manifest file '../build/imu/imu.egg-info/SOURCES.txt'
+[2.937s] writing manifest file '../build/imu/imu.egg-info/SOURCES.txt'
+[2.938s] running build
+[2.938s] running build_py
+[2.938s] copying imu/head_pub.py -> /home/mayooran/Documents/ros_topics/src/build/imu/build/lib/imu
+[2.939s] running install
+[2.943s] running install_lib
+[2.944s] copying /home/mayooran/Documents/ros_topics/src/build/imu/build/lib/imu/head_pub.py -> /home/mayooran/Documents/ros_topics/src/install/imu/lib/python3.8/site-packages/imu
+[2.946s] byte-compiling /home/mayooran/Documents/ros_topics/src/install/imu/lib/python3.8/site-packages/imu/head_pub.py to head_pub.cpython-38.pyc
+[2.948s] running install_data
+[2.948s] running install_egg_info
+[2.952s] removing '/home/mayooran/Documents/ros_topics/src/install/imu/lib/python3.8/site-packages/imu-0.0.0-py3.8.egg-info' (and everything under it)
+[2.952s] Copying ../build/imu/imu.egg-info to /home/mayooran/Documents/ros_topics/src/install/imu/lib/python3.8/site-packages/imu-0.0.0-py3.8.egg-info
+[2.953s] running install_scripts
+[2.983s] Installing head_publisher script to /home/mayooran/Documents/ros_topics/src/install/imu/lib/imu
+[2.983s] Installing imu_publisher script to /home/mayooran/Documents/ros_topics/src/install/imu/lib/imu
+[2.983s] writing list of installed files to '/home/mayooran/Documents/ros_topics/src/build/imu/install.log'
+[3.009s] Invoked command in '/home/mayooran/Documents/ros_topics/src/imu' returned '0': CONDA_PROMPT_MODIFIER=(hl2ss) PYTHONPATH=/home/mayooran/Documents/ros_topics/src/build/imu/prefix_override:/home/mayooran/Documents/ros_topics/src/install/imu/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/imu build --build-base /home/mayooran/Documents/ros_topics/src/build/imu/build install --record /home/mayooran/Documents/ros_topics/src/build/imu/install.log --install-scripts $base/lib/imu --single-version-externally-managed install_data

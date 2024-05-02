@@ -1,0 +1,5 @@
+  File "/home/mayooran/Documents/ros_topics/src/install/imu/lib/python3.8/site-packages/imu/imu_pub.py", line 32
+    ts= String()
+    ^
+SyntaxError: invalid syntax
+

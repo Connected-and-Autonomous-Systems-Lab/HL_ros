@@ -1,0 +1,4 @@
+[console_scripts]
+head_publisher = imu.head_pub:main
+imu_publisher = imu.imu_pub:main
+
